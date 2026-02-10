@@ -1206,3 +1206,20 @@ https://templatemo.com/tm-593-personal-shape
                 padding: 0 1rem;
             }
         }
+/* FAQ */
+.faq .faq-list { margin-top: 20px; }
+.faq-item {
+  background: rgba(255,255,255,0.75);
+  border-radius: 14px;
+  padding: 14px 16px;
+  margin-bottom: 12px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.06);
+}
+.faq-item summary {
+  cursor: pointer;
+  font-weight: 700;
+  list-style: none;
+}
+.faq-item summary::-webkit-details-marker { display: none; }
+.faq-answer { margin-top: 10px; line-height: 1.7; }
+
