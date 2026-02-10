@@ -1222,4 +1222,25 @@ https://templatemo.com/tm-593-personal-shape
 }
 .faq-item summary::-webkit-details-marker { display: none; }
 .faq-answer { margin-top: 10px; line-height: 1.7; }
+/* WhatsApp Floating Button */
+.whatsapp-float {
+  position: fixed;
+  width: 55px;
+  height: 55px;
+  bottom: 20px;
+  right: 20px;
+  background-color: #25D366;
+  border-radius: 50%;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.3);
+  z-index: 999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.whatsapp-float img {
+  width: 32px;
+  height: 32px;
+}
+
 
