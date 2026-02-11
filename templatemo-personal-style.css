@@ -1228,7 +1228,7 @@ https://templatemo.com/tm-593-personal-shape
   width: 55px;
   height: 55px;
   bottom: 20px;
-  right: 20px;
+  left: 20px;
   background-color: #25D366;
   border-radius: 50%;
   box-shadow: 0 8px 20px rgba(0,0,0,0.3);
@@ -1242,5 +1242,6 @@ https://templatemo.com/tm-593-personal-shape
   width: 32px;
   height: 32px;
 }
+
 
 
