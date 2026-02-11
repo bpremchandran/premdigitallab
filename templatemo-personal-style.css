@@ -1242,26 +1242,8 @@ https://templatemo.com/tm-593-personal-shape
   width: 32px;
   height: 32px;
 }
-/* Email Floating Button */
-.email-float {
-  position: fixed;
-  width: 55px;
-  height: 55px;
-  bottom: 20px;
-  right: 20px;
-  background-color: #ff3b3b;
-  border-radius: 50%;
-  box-shadow: 0 8px 20px rgba(0,0,0,0.3);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  z-index: 999;
-}
 
-.email-float img {
-  width: 28px;
-  height: 28px;
-}
+
 
 
 
