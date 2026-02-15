@@ -1242,6 +1242,30 @@ https://templatemo.com/tm-593-personal-shape
   width: 32px;
   height: 32px;
 }
+.call-float {
+  position: fixed;
+  right: 20px;
+  bottom: 120px;
+  width: 55px;
+  height: 55px;
+  background: #2b7cff;
+  color: #ffffff;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+  text-decoration: none;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.25);
+  z-index: 9999;
+  transition: 0.3s ease;
+}
+
+.call-float:hover {
+  transform: translateY(-3px);
+  background: #1a5edb;
+}
+
 
 
 
