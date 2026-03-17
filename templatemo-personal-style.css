@@ -1265,7 +1265,13 @@ https://templatemo.com/tm-593-personal-shape
   transform: translateY(-3px);
   background: #1a5edb;
 }
-
+.about-video{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 30px;
+  display: block;
+}
 
 
 
